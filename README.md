@@ -29,3 +29,5 @@ ALT : glutamic oxaloacetic transaminase type
 Gtp : γ-GTP
 dental caries
 smoking
+
+https://www.kaggle.com/competitions/ml-olympiad-smoking/overview
